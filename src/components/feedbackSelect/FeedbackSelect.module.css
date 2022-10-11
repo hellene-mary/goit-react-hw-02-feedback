@@ -1,5 +1,9 @@
 .feedbackBtnBox {
     display: flex;
-    gap: 20px;
+    gap: 8px;
     margin-top: 10px;
+}
+
+.feedbackBtn {
+    cursor: pointer;
 }
